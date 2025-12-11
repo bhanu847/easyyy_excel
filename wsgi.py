@@ -1,1 +1,1 @@
-from easyyy_excel import app
+from easy_excel import app
