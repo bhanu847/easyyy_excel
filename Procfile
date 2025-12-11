@@ -1,1 +1,1 @@
-web: gunicorn easyyyy_excel:app
+web: gunicorn easy_excel:app
