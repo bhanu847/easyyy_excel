@@ -1,0 +1,11 @@
+flask
+fastapi
+uvicorn[standard]
+pandas
+pandasql
+openpyxl
+httpx
+python-dotenv
+reportlab
+python-multipart
+aiofiles
