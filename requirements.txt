@@ -1,7 +1,8 @@
-flask
-pandas
-pandasql
-openpyxl
-httpx
-python-dotenv
-reportlab
+Flask==2.3.2
+pandas==2.2.3
+pandasql==0.7.3
+openpyxl==3.1.2
+httpx==0.24.1
+python-dotenv==1.0.0
+reportlab==4.0.0
+gunicorn==20.1.0
